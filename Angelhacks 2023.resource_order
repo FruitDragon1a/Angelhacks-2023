@@ -1,4 +1,6 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"TextBackground_sprite","order":1,"path":"sprites/TextBackground_sprite/TextBackground_sprite.yy",},
+  ],
 }
