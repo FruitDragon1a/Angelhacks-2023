@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "TextBackground",
-    "path": "sprites/TextBackground/TextBackground.yy",
+    "name": "TextBackground_sprite",
+    "path": "sprites/TextBackground_sprite/TextBackground_sprite.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -26,7 +26,7 @@
   "origin": 0,
   "parent": {
     "name": "frog sprites",
-    "path": "folders/Sprites/frog sprites.yy",
+    "path": "folders/Sprites/characters/frog sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
