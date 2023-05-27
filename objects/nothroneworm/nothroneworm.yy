@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object25",
+  "name": "nothroneworm",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "characters",
+    "path": "folders/Objects/characters.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "worm_nothrone",
+    "path": "sprites/worm_nothrone/worm_nothrone.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

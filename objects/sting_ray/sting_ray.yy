@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "croc",
+  "name": "sting_ray",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "crocodile",
-    "path": "sprites/crocodile/crocodile.yy",
+    "name": "stingray",
+    "path": "sprites/stingray/stingray.yy",
   },
   "spriteMaskId": null,
   "visible": true,

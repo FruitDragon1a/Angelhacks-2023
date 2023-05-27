@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "croc",
+  "name": "seashell",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "characters",
-    "path": "folders/Objects/characters.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "crocodile",
-    "path": "sprites/crocodile/crocodile.yy",
+    "name": "shell",
+    "path": "sprites/shell/shell.yy",
   },
   "spriteMaskId": null,
   "visible": true,

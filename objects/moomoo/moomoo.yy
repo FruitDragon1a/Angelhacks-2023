@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "croc",
+  "name": "moomoo",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "crocodile",
-    "path": "sprites/crocodile/crocodile.yy",
+    "name": "cow",
+    "path": "sprites/cow/cow.yy",
   },
   "spriteMaskId": null,
   "visible": true,
