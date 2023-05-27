@@ -65,6 +65,7 @@
     {"name":"obj_plant_01","order":8,"path":"objects/obj_plant_01/obj_plant_01.yy",},
     {"name":"frog_front","order":2,"path":"sprites/frog_front/frog_front.yy",},
     {"name":"building2_blue","order":16,"path":"sprites/building2_blue/building2_blue.yy",},
+    {"name":"TextBackground","order":69,"path":"sprites/TextBackground/TextBackground.yy",},
     {"name":"tiles","order":4,"path":"sprites/tiles/tiles.yy",},
     {"name":"TX_Shadow_Plant","order":5,"path":"sprites/TX_Shadow_Plant/TX_Shadow_Plant.yy",},
     {"name":"tilesresized","order":5,"path":"sprites/tilesresized/tilesresized.yy",},
