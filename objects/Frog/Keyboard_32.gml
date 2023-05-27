@@ -2,7 +2,7 @@
 // You can write your code in this editor
 if (npc) {
 	if (npc.dialogue != "EMPTY") {
-		if (dialogue.length == 0) {
+		if (ds_list_empty(dialogue)) {
 			loadDialogue(npc.dialogue);
 		}
 		if (dialogueIndex == -1) {
