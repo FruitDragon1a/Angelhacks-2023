@@ -99,6 +99,7 @@
     {"id":{"name":"obj_plant_01","path":"objects/obj_plant_01/obj_plant_01.yy",},},
     {"id":{"name":"frog_front","path":"sprites/frog_front/frog_front.yy",},},
     {"id":{"name":"building2_blue","path":"sprites/building2_blue/building2_blue.yy",},},
+    {"id":{"name":"TextBackground","path":"sprites/TextBackground/TextBackground.yy",},},
     {"id":{"name":"tiles","path":"sprites/tiles/tiles.yy",},},
     {"id":{"name":"TX_Shadow_Plant","path":"sprites/TX_Shadow_Plant/TX_Shadow_Plant.yy",},},
     {"id":{"name":"tilesresized","path":"sprites/tilesresized/tilesresized.yy",},},
