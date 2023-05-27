@@ -9,7 +9,10 @@
     "name": "buildings",
     "path": "folders/Objects/buildings.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_par_collidables",
+    "path": "objects/obj_par_collidables/obj_par_collidables.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "building3_green",
+    "path": "sprites/building3_green/building3_green.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

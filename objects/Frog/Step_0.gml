@@ -1,4 +1,4 @@
-/// @description Main script
+  /// @description Main script
 // You can write your code in this editor
 
 //check keys for movement
@@ -34,6 +34,7 @@ if (vx==0 && vy == 0 || canMove == false){
 if ((vx !=0 || vy != 0) && canMove == true){
 	if !collision_point(x+vx,y,obj_par_collidables,true,true) {
 		x += vx;
+		y += vy; 
 	}
 	if !collision_point(x,y+vy,obj_par_collidables,true,true) {
 		y += vy;
