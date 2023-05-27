@@ -1,18 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "King_Halcyon_Worm_II",
-  "eventList": [],
+  "name": "textbox",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "npcDialogue",
-    "path": "objects/npcDialogue/npcDialogue.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "King_Halcyon_Worm_the_Second",
-    "path": "sprites/King_Halcyon_Worm_the_Second/King_Halcyon_Worm_the_Second.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
