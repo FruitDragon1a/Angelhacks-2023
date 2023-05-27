@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "flora",
-    "path": "folders/Objects/decor/flora.yy",
+    "name": "Angelhacks 2023",
+    "path": "Angelhacks 2023.yyp",
   },
   "parentObjectId": {
     "name": "obj_par_objects",
