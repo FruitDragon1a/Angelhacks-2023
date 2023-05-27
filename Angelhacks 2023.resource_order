@@ -7,6 +7,7 @@
     {"name":"furniture","order":11,"path":"folders/Sprites/furniture.yy",},
     {"name":"houses","order":12,"path":"folders/Sprites/houses.yy",},
     {"name":"tilesets","order":13,"path":"folders/Sprites/tilesets.yy",},
+    {"name":"items","order":9,"path":"folders/Objects/items.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"tree_2","order":52,"path":"sprites/tree_2/tree_2.yy",},
