@@ -9,6 +9,7 @@
     {"name":"houses","order":10,"path":"folders/Sprites/houses.yy",},
     {"name":"other stuff","order":15,"path":"folders/Sprites/other stuff.yy",},
     {"name":"tilesets","order":11,"path":"folders/Sprites/tilesets.yy",},
+    {"name":"buildings","order":11,"path":"folders/Objects/buildings.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"tree_2","order":13,"path":"sprites/tree_2/tree_2.yy",},
@@ -27,6 +28,7 @@
     {"name":"building2_red","order":18,"path":"sprites/building2_red/building2_red.yy",},
     {"name":"croc","order":4,"path":"objects/croc/croc.yy",},
     {"name":"Cauldron_strip04","order":1,"path":"sprites/Cauldron_strip04/Cauldron_strip04.yy",},
+    {"name":"green_house_2","order":1,"path":"objects/green_house_2/green_house_2.yy",},
     {"name":"box","order":1,"path":"sprites/box/box.yy",},
     {"name":"tree_1","order":12,"path":"sprites/tree_1/tree_1.yy",},
     {"name":"obj_lantern","order":3,"path":"objects/obj_lantern/obj_lantern.yy",},
@@ -66,6 +68,7 @@
     {"name":"turd","order":12,"path":"objects/turd/turd.yy",},
     {"name":"angar2_yellow","order":7,"path":"sprites/angar2_yellow/angar2_yellow.yy",},
     {"name":"Lacuna","order":2,"path":"rooms/Lacuna/Lacuna.yy",},
+    {"name":"green_house_3","order":2,"path":"objects/green_house_3/green_house_3.yy",},
     {"name":"TX_Tileset_Stone_Ground","order":1,"path":"sprites/TX_Tileset_Stone_Ground/TX_Tileset_Stone_Ground.yy",},
     {"name":"logs","order":4,"path":"sprites/logs/logs.yy",},
     {"name":"angar3_yellow","order":11,"path":"sprites/angar3_yellow/angar3_yellow.yy",},
