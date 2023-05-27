@@ -9,7 +9,10 @@
     "name": "decor",
     "path": "folders/Objects/decor.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_par_objects",
+    "path": "objects/obj_par_objects/obj_par_objects.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
