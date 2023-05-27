@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "furniture",
-    "path": "folders/Objects/decor/furniture.yy",
+    "name": "Angelhacks 2023",
+    "path": "Angelhacks 2023.yyp",
   },
   "parentObjectId": {
     "name": "obj_par_solid_decor",
@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Device_strip04",
-    "path": "sprites/Device_strip04/Device_strip04.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

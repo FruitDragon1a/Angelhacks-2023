@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Crystal_strip05",
-    "path": "sprites/Crystal_strip05/Crystal_strip05.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

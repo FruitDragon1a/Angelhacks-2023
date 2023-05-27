@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "flora",
-    "path": "folders/Objects/decor/flora.yy",
+    "name": "Angelhacks 2023",
+    "path": "Angelhacks 2023.yyp",
   },
   "parentObjectId": {
     "name": "obj_par_objects",
@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Plant01_strip04",
-    "path": "sprites/Plant01_strip04/Plant01_strip04.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

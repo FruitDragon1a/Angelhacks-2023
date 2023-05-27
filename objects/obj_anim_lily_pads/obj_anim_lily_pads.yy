@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Lily_pads_strip03",
-    "path": "sprites/Lily_pads_strip03/Lily_pads_strip03.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
