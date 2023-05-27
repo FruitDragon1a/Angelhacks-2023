@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "Cauldron_strip04",
+    "path": "sprites/Cauldron_strip04/Cauldron_strip04.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

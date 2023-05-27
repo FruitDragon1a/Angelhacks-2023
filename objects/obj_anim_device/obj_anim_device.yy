@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Device_strip04",
-    "path": "sprites/Device_strip04/Device_strip04.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Log_strip04",
-    "path": "sprites/Log_strip04/Log_strip04.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
