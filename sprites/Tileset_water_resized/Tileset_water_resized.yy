@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "tilesresized",
-  "bbox_bottom": 223,
+  "name": "Tileset_water_resized",
+  "bbox_bottom": 383,
   "bbox_left": 0,
-  "bbox_right": 415,
+  "bbox_right": 543,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c9e139cf-c5cf-4576-b8f6-308dacf1f91b",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3878abcb-3fb5-4169-be94-51aa66b640a8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 224,
+  "height": 384,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b89b9048-f71d-4601-bab5-d6960a1d7b92","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c9f36019-7325-46b2-abca-da0b50b7fc91","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "tilesresized",
+    "name": "Tileset_water_resized",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c9e139cf-c5cf-4576-b8f6-308dacf1f91b","path":"sprites/tilesresized/tilesresized.yy",},},},"Disabled":false,"id":"f79b3298-aa42-4dc8-be91-4f902f952ed9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3878abcb-3fb5-4169-be94-51aa66b640a8","path":"sprites/Tileset_water_resized/Tileset_water_resized.yy",},},},"Disabled":false,"id":"29613291-6e6b-4856-b289-f3970ecf579b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 416,
+  "width": 608,
 }
