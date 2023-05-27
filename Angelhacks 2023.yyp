@@ -37,6 +37,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/Sprites/tilesets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"other stuff","folderPath":"folders/Sprites/other stuff.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pixel Art Top Down - Basic.unitypackage","CopyToMask":-1,"filePath":"datafiles/Pixel Art Top Down - Basic",},
@@ -84,6 +85,7 @@
     {"id":{"name":"racoon_back","path":"sprites/racoon_back/racoon_back.yy",},},
     {"id":{"name":"tree_1","path":"sprites/tree_1/tree_1.yy",},},
     {"id":{"name":"obj_lantern","path":"objects/obj_lantern/obj_lantern.yy",},},
+    {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"TX_Shadow","path":"sprites/TX_Shadow/TX_Shadow.yy",},},
     {"id":{"name":"tileset_Water_resized","path":"tilesets/tileset_Water_resized/tileset_Water_resized.yy",},},
     {"id":{"name":"crocodile","path":"sprites/crocodile/crocodile.yy",},},
@@ -94,6 +96,7 @@
     {"id":{"name":"angar2_red","path":"sprites/angar2_red/angar2_red.yy",},},
     {"id":{"name":"obj_par_npcs","path":"objects/obj_par_npcs/obj_par_npcs.yy",},},
     {"id":{"name":"table_1","path":"sprites/table_1/table_1.yy",},},
+    {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
     {"id":{"name":"Tileset_Wall_1","path":"tilesets/Tileset_Wall_1/Tileset_Wall_1.yy",},},
     {"id":{"name":"frog_front","path":"sprites/frog_front/frog_front.yy",},},
     {"id":{"name":"TX_Player","path":"sprites/TX_Player/TX_Player.yy",},},
