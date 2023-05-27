@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lily_pads",
+  "name": "obj_anim_crystal",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "furniture",
+    "path": "folders/Objects/decor/furniture.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_objects",
-    "path": "objects/obj_par_objects/obj_par_objects.yy",
+    "name": "obj_par_solid_decor",
+    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Lily_pads_strip03",
-    "path": "sprites/Lily_pads_strip03/Lily_pads_strip03.yy",
+    "name": "Crystal_strip05",
+    "path": "sprites/Crystal_strip05/Crystal_strip05.yy",
   },
   "spriteMaskId": null,
   "visible": true,

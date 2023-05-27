@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_crystal",
+  "name": "obj_anim_plant_04",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "flora",
+    "path": "folders/Objects/decor/flora.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_solid_decor",
-    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
+    "name": "obj_par_objects",
+    "path": "objects/obj_par_objects/obj_par_objects.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Crystal_strip05",
-    "path": "sprites/Crystal_strip05/Crystal_strip05.yy",
+    "name": "Plant04_strip02",
+    "path": "sprites/Plant04_strip02/Plant04_strip02.yy",
   },
   "spriteMaskId": null,
   "visible": true,

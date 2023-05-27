@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_log",
+  "name": "obj_anim_lily_pads",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "flora",
+    "path": "folders/Objects/decor/flora.yy",
   },
   "parentObjectId": {
     "name": "obj_par_objects",
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Log_strip04",
-    "path": "sprites/Log_strip04/Log_strip04.yy",
+    "name": "Lily_pads_strip03",
+    "path": "sprites/Lily_pads_strip03/Lily_pads_strip03.yy",
   },
   "spriteMaskId": null,
   "visible": true,

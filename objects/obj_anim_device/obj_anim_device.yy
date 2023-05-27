@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lily_pad",
+  "name": "obj_anim_device",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "furniture",
+    "path": "folders/Objects/decor/furniture.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_objects",
-    "path": "objects/obj_par_objects/obj_par_objects.yy",
+    "name": "obj_par_solid_decor",
+    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Lily_pad_strip04",
-    "path": "sprites/Lily_pad_strip04/Lily_pad_strip04.yy",
+    "name": "Device_strip04",
+    "path": "sprites/Device_strip04/Device_strip04.yy",
   },
   "spriteMaskId": null,
   "visible": true,
