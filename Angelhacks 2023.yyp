@@ -66,7 +66,7 @@
     {"id":{"name":"frog_front_stand","path":"sprites/frog_front_stand/frog_front_stand.yy",},},
     {"id":{"name":"TX_Shadow","path":"sprites/TX_Shadow/TX_Shadow.yy",},},
     {"id":{"name":"tileset_Water_resized","path":"tilesets/tileset_Water_resized/tileset_Water_resized.yy",},},
-    {"id":{"name":"frog_stand","path":"sprites/frog_stand/frog_stand.yy",},},
+    {"id":{"name":"frog_back_stand","path":"sprites/frog_back_stand/frog_back_stand.yy",},},
     {"id":{"name":"angar2_red","path":"sprites/angar2_red/angar2_red.yy",},},
     {"id":{"name":"table_1","path":"sprites/table_1/table_1.yy",},},
     {"id":{"name":"Tileset_Wall_1","path":"tilesets/Tileset_Wall_1/Tileset_Wall_1.yy",},},
