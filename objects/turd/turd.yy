@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_block",
+  "name": "turd",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "characters",
+    "path": "folders/Objects/characters.yy",
   },
-  "parentObjectId": {
-    "name": "obj_par_solid_decor",
-    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,9 +26,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
+    "name": "littlescalyboi",
+    "path": "sprites/littlescalyboi/littlescalyboi.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }
