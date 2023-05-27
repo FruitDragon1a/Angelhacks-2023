@@ -8,11 +8,13 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
     {"name":"inst_18CC207A","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_BA3333","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18CC207A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Frog","path":"objects/Frog/Frog.yy",},"properties":[],"rotation":0.0,"scaleX":0.2,"scaleY":0.2,"x":320.0,"y":160.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_18CC207A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Frog","path":"objects/Frog/Frog.yy",},"properties":[],"rotation":0.0,"scaleX":0.1,"scaleY":0.1,"x":320.0,"y":160.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_BA3333","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_cauldron","path":"objects/obj_cauldron/obj_cauldron.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":480.0,"y":224.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_2","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":32,"SerialiseWidth":32,"TileCompressedData":[
 -155,-2147483648,1,1,-30,-2147483648,2,39,203,-30,-2147483648,-2,163,-31,-2147483648,1,144,-772,-2147483648,],"TileDataFormat":1,},"tilesetId":{"name":"tileset_Water_resized","path":"tilesets/tileset_Water_resized/tileset_Water_resized.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
