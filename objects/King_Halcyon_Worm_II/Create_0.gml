@@ -1,3 +1,3 @@
-/// @description Insert description here
+/// @description King Halcyon Worm II's dialogue
 // You can write your code in this editor
-dialogue = "First Line\nSecond Line";
+dialogue = "Line 1\nLine2";
