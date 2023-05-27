@@ -2,12 +2,12 @@
   "FolderOrderSettings": [
     {"name":"characters","order":1,"path":"folders/Objects/characters.yy",},
     {"name":"decor","order":7,"path":"folders/Objects/decor.yy",},
+    {"name":"items","order":9,"path":"folders/Objects/items.yy",},
     {"name":"animated_furniture","order":9,"path":"folders/Sprites/animated_furniture.yy",},
     {"name":"characters","order":10,"path":"folders/Sprites/characters.yy",},
     {"name":"furniture","order":11,"path":"folders/Sprites/furniture.yy",},
     {"name":"houses","order":12,"path":"folders/Sprites/houses.yy",},
     {"name":"tilesets","order":13,"path":"folders/Sprites/tilesets.yy",},
-    {"name":"items","order":9,"path":"folders/Objects/items.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"tree_2","order":52,"path":"sprites/tree_2/tree_2.yy",},
