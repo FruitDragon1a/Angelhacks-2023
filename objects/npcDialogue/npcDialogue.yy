@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "King_Halcyon_Worm_II",
+  "name": "npcDialogue",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,10 +9,7 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "npcDialogue",
-    "path": "objects/npcDialogue/npcDialogue.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -26,12 +23,11 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [],
+  "properties": [
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"dialogue","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"EMPTY","varType":2,},
+  ],
   "solid": false,
-  "spriteId": {
-    "name": "King_Halcyon_Worm_the_Second",
-    "path": "sprites/King_Halcyon_Worm_the_Second/King_Halcyon_Worm_the_Second.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
