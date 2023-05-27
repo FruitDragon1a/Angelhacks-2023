@@ -82,6 +82,7 @@
     {"name":"King_Halcyon_Worm_II","order":2,"path":"objects/King_Halcyon_Worm_II/King_Halcyon_Worm_II.yy",},
     {"name":"building3_red","order":22,"path":"sprites/building3_red/building3_red.yy",},
     {"name":"angar3_blue","order":8,"path":"sprites/angar3_blue/angar3_blue.yy",},
+    {"name":"TextBoxSprite","order":16,"path":"sprites/TextBoxSprite/TextBoxSprite.yy",},
     {"name":"TX_Plant","order":1,"path":"sprites/TX_Plant/TX_Plant.yy",},
     {"name":"stump","order":5,"path":"sprites/stump/stump.yy",},
     {"name":"angar2_blue","order":4,"path":"sprites/angar2_blue/angar2_blue.yy",},

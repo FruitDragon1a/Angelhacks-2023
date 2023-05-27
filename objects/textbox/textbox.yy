@@ -27,7 +27,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "TextBoxSprite",
+    "path": "sprites/TextBoxSprite/TextBoxSprite.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
