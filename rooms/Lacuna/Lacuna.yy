@@ -1,17 +1,17 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "Lacuna",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_18CC207A","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_BA3333","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_72458648","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_19F63138","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_563D2693","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_18CC207A","path":"rooms/Lacuna/Lacuna.yy",},
+    {"name":"inst_BA3333","path":"rooms/Lacuna/Lacuna.yy",},
+    {"name":"inst_72458648","path":"rooms/Lacuna/Lacuna.yy",},
+    {"name":"inst_19F63138","path":"rooms/Lacuna/Lacuna.yy",},
+    {"name":"inst_563D2693","path":"rooms/Lacuna/Lacuna.yy",},
   ],
   "isDnd": false,
   "layers": [
