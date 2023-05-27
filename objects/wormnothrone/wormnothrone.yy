@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "worm_nothrone",
-    "path": "sprites/worm_nothrone/worm_nothrone.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
