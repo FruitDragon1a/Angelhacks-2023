@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings": [
+    {"name":"buildings","order":11,"path":"folders/Objects/buildings.yy",},
     {"name":"characters","order":1,"path":"folders/Objects/characters.yy",},
     {"name":"decor","order":7,"path":"folders/Objects/decor.yy",},
     {"name":"items","order":9,"path":"folders/Objects/items.yy",},
@@ -9,7 +10,6 @@
     {"name":"houses","order":10,"path":"folders/Sprites/houses.yy",},
     {"name":"other stuff","order":15,"path":"folders/Sprites/other stuff.yy",},
     {"name":"tilesets","order":11,"path":"folders/Sprites/tilesets.yy",},
-    {"name":"buildings","order":11,"path":"folders/Objects/buildings.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"tree_2","order":13,"path":"sprites/tree_2/tree_2.yy",},
