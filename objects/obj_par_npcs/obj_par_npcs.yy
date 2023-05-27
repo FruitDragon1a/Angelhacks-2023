@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lantern",
+  "name": "obj_par_npcs",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_solid_decor",
-    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
+    "name": "obj_par_objects",
+    "path": "objects/obj_par_objects/obj_par_objects.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -28,10 +28,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "Lantern_strip04",
-    "path": "sprites/Lantern_strip04/Lantern_strip04.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

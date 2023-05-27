@@ -7,6 +7,8 @@ moveLeft = keyboard_check(vk_left);
 moveUp = keyboard_check(vk_up);
 moveDown = keyboard_check(vk_down);
 
+//depth sorting
+depth = -y
 
 //Calculate Movement
 vx = ((moveRight-moveLeft)*walkSpeed);
@@ -30,9 +32,12 @@ if (vx==0 && vy == 0){
 
 //if moving
 if (vx !=0 || vy != 0){
-	x += vx;
-	y += vy;
-}
+	if !collision_point(x+vx,y,obj_par_objects,true,true) {
+		x += vx;
+	}
+	if !collision_point(x,y+vy,obj_par_objects,true,true) {
+		y += vy; }
+	}
 
 //change frog's moving sprite based on direction
 if (vx > 0){
