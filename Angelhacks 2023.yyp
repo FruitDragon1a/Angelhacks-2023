@@ -115,7 +115,6 @@
     {"id":{"name":"frog_left","path":"sprites/frog_left/frog_left.yy",},},
     {"id":{"name":"Plant02_strip03","path":"sprites/Plant02_strip03/Plant02_strip03.yy",},},
     {"id":{"name":"Plant01_strip04","path":"sprites/Plant01_strip04/Plant01_strip04.yy",},},
-    {"id":{"name":"obj_plant_01","path":"objects/obj_plant_01/obj_plant_01.yy",},},
     {"id":{"name":"advisor_squid","path":"objects/advisor_squid/advisor_squid.yy",},},
     {"id":{"name":"obj_anim_plant_01","path":"objects/obj_anim_plant_01/obj_anim_plant_01.yy",},},
     {"id":{"name":"frog_front","path":"sprites/frog_front/frog_front.yy",},},
