@@ -107,6 +107,7 @@
     {"id":{"name":"logs","path":"sprites/logs/logs.yy",},},
     {"id":{"name":"Lantern_strip04","path":"sprites/Lantern_strip04/Lantern_strip04.yy",},},
     {"id":{"name":"branches_strip04","path":"sprites/branches_strip04/branches_strip04.yy",},},
+    {"id":{"name":"TextBackground","path":"sprites/TextBackground/TextBackground.yy",},},
     {"id":{"name":"angar3_yellow","path":"sprites/angar3_yellow/angar3_yellow.yy",},},
     {"id":{"name":"Log_strip04","path":"sprites/Log_strip04/Log_strip04.yy",},},
     {"id":{"name":"TX_Struct","path":"sprites/TX_Struct/TX_Struct.yy",},},
