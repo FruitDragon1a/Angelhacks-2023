@@ -32,10 +32,8 @@ if (vx==0 && vy == 0 || !canMove){
 
 //if moving
 if ((vx !=0 || vy != 0) && canMove){
-	if !collision_point(x+vx,y,obj_par_collidables,false,true) {
+	if !collision_rectangle(x+vx,y+vx,x-vx,y-vx,obj_par_collidables,true,true) {
 		x += vx;
-	}
-	if !collision_point(x,y+vy,obj_par_collidables,false,true) {
 		y += vy; 
 	}
 }
