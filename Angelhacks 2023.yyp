@@ -26,6 +26,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"frog sprites","folderPath":"folders/Sprites/frog sprites.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -35,9 +36,13 @@
   },
   "resources": [
     {"id":{"name":"frog_right","path":"sprites/frog_right/frog_right.yy",},},
+    {"id":{"name":"frog_back_stand","path":"sprites/frog_back_stand/frog_back_stand.yy",},},
+    {"id":{"name":"frog_front_stand","path":"sprites/frog_front_stand/frog_front_stand.yy",},},
     {"id":{"name":"frog_back","path":"sprites/frog_back/frog_back.yy",},},
+    {"id":{"name":"frog_right_stand","path":"sprites/frog_right_stand/frog_right_stand.yy",},},
     {"id":{"name":"frog_left","path":"sprites/frog_left/frog_left.yy",},},
     {"id":{"name":"frog_front","path":"sprites/frog_front/frog_front.yy",},},
+    {"id":{"name":"frog_left_stand","path":"sprites/frog_left_stand/frog_left_stand.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

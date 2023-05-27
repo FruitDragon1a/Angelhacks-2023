@@ -15,10 +15,15 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"frog sprites","order":8,"path":"folders/Sprites/frog sprites.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"frog_back_stand","order":7,"path":"sprites/frog_back_stand/frog_back_stand.yy",},
+    {"name":"frog_front_stand","order":4,"path":"sprites/frog_front_stand/frog_front_stand.yy",},
     {"name":"frog_back","order":1,"path":"sprites/frog_back/frog_back.yy",},
+    {"name":"frog_right_stand","order":6,"path":"sprites/frog_right_stand/frog_right_stand.yy",},
     {"name":"frog_left","order":2,"path":"sprites/frog_left/frog_left.yy",},
     {"name":"frog_front","order":3,"path":"sprites/frog_front/frog_front.yy",},
+    {"name":"frog_left_stand","order":5,"path":"sprites/frog_left_stand/frog_left_stand.yy",},
   ],
 }
