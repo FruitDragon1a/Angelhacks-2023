@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lantern",
+  "name": "barry_the_berry",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Angelhacks 2023",
-    "path": "Angelhacks 2023.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "obj_par_solid_decor",
-    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "barry",
+    "path": "sprites/barry/barry.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

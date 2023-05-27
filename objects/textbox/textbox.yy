@@ -27,10 +27,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "TextBackground_sprite",
-    "path": "sprites/TextBackground_sprite/TextBackground_sprite.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }
