@@ -7,11 +7,12 @@ if (npc) {
 			canMove = false;
 		}
 		if (dialogueIndex == -1) {
-			dialogueBox = instance_create_depth(npc.x, npc.y-400,-10000, textbox);
+			dialogueBox = instance_create_depth(npc.x, npc.y,5, textbox);
 			dialogueIndex += 1;
 		}
 		if (dialogueIndex > array_length(dialogue)-1) {
 			dialogueBox.showText(dialogue[dialogueIndex]);
+			dialogueIndex -= 1;
 		} else {
 			instance_destroy(dialogueBox);
 			canMove = true;

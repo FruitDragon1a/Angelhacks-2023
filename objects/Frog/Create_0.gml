@@ -11,7 +11,7 @@ moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
 lookRange = 60;
-dialogue = [ ]
+dialogue = [ ];
 
 function loadDialogue(dialogue_) {
 	var currentString = "";

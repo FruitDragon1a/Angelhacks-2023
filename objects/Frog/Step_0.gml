@@ -15,7 +15,7 @@ vx = ((moveRight-moveLeft)*walkSpeed);
 vy = ((moveDown - moveUp)*walkSpeed);
 
 //If Idle
-if (vx==0 && vy == 0 || !canMove){
+if (vx==0 && vy == 0 || canMove == false){
 	if dir == 1{
 		sprite_index = frog_front_stand;
 	}
@@ -31,28 +31,29 @@ if (vx==0 && vy == 0 || !canMove){
 }
 
 //if moving
-if (vx !=0 || vy != 0 && canMove){
+if ((vx !=0 || vy != 0) && canMove == true){
 	if !collision_point(x+vx,y,obj_par_collidables,true,true) {
 		x += vx;
 	}
 	if !collision_point(x,y+vy,obj_par_collidables,true,true) {
-		y += vy; }
+		y += vy;
 	}
+}
 
 //change frog's moving sprite based on direction
-if (vx > 0 && canMove){
+if (vx > 0 && canMove == true){
 	sprite_index = frog_right;
 	dir = 0;
 }
-if (vx < 0 && canMove){
+if (vx < 0 && canMove == true){
 	sprite_index = frog_left;
 	dir = 2;
 }
-if (vy < 0 && canMove){
+if (vy < 0 && canMove == true){
 	sprite_index = frog_back;
 	dir = 3;
 }
-if (vy > 0 && canMove){
+if (vy > 0 && canMove == true){
 	sprite_index = frog_front;
 	dir = 1;
 }

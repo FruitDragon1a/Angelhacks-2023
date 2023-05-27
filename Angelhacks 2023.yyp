@@ -16,6 +16,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"buildings","folderPath":"folders/Objects/buildings.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"characters","folderPath":"folders/Objects/characters.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"decor","folderPath":"folders/Objects/decor.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"items","folderPath":"folders/Objects/items.yy",},
@@ -38,7 +39,6 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/Sprites/tilesets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"buildings","folderPath":"folders/Objects/buildings.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pixel Art Top Down - Basic.unitypackage","CopyToMask":-1,"filePath":"datafiles/Pixel Art Top Down - Basic",},
