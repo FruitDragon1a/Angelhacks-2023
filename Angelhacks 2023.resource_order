@@ -73,6 +73,7 @@
     {"name":"TX_Tileset_Stone_Ground","order":1,"path":"sprites/TX_Tileset_Stone_Ground/TX_Tileset_Stone_Ground.yy",},
     {"name":"logs","order":4,"path":"sprites/logs/logs.yy",},
     {"name":"Lantern_strip04","order":4,"path":"sprites/Lantern_strip04/Lantern_strip04.yy",},
+    {"name":"TextBackground","order":69,"path":"sprites/TextBackground/TextBackground.yy",},
     {"name":"angar3_yellow","order":11,"path":"sprites/angar3_yellow/angar3_yellow.yy",},
     {"name":"Log_strip04","order":7,"path":"sprites/Log_strip04/Log_strip04.yy",},
     {"name":"TX_Struct","order":6,"path":"sprites/TX_Struct/TX_Struct.yy",},
