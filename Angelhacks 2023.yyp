@@ -148,6 +148,7 @@
     {"id":{"name":"stump","path":"sprites/stump/stump.yy",},},
     {"id":{"name":"obj_branches","path":"objects/obj_branches/obj_branches.yy",},},
     {"id":{"name":"angar2_blue","path":"sprites/angar2_blue/angar2_blue.yy",},},
+    {"id":{"name":"obj_par_collidables","path":"objects/obj_par_collidables/obj_par_collidables.yy",},},
     {"id":{"name":"building1_blue","path":"sprites/building1_blue/building1_blue.yy",},},
     {"id":{"name":"building1_red","path":"sprites/building1_red/building1_red.yy",},},
     {"id":{"name":"Device_strip04","path":"sprites/Device_strip04/Device_strip04.yy",},},

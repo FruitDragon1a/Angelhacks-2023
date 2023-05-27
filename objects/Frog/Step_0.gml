@@ -32,10 +32,10 @@ if (vx==0 && vy == 0){
 
 //if moving
 if (vx !=0 || vy != 0){
-	if !collision_point(x+vx,y,obj_par_objects,true,true) {
+	if !collision_point(x+vx,y,obj_par_collidables,true,true) {
 		x += vx;
 	}
-	if !collision_point(x,y+vy,obj_par_objects,true,true) {
+	if !collision_point(x,y+vy,obj_par_collidables,true,true) {
 		y += vy; }
 	}
 

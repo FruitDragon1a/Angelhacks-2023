@@ -109,6 +109,7 @@
     {"name":"stump","order":5,"path":"sprites/stump/stump.yy",},
     {"name":"obj_branches","order":4,"path":"objects/obj_branches/obj_branches.yy",},
     {"name":"angar2_blue","order":4,"path":"sprites/angar2_blue/angar2_blue.yy",},
+    {"name":"obj_par_collidables","order":6,"path":"objects/obj_par_collidables/obj_par_collidables.yy",},
     {"name":"building1_blue","order":12,"path":"sprites/building1_blue/building1_blue.yy",},
     {"name":"building1_red","order":14,"path":"sprites/building1_red/building1_red.yy",},
     {"name":"Device_strip04","order":3,"path":"sprites/Device_strip04/Device_strip04.yy",},
