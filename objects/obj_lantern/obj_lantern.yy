@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "furniture",
+    "path": "folders/Objects/decor/furniture.yy",
   },
   "parentObjectId": {
     "name": "obj_par_solid_decor",

@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_plant_01",
+  "name": "obj_anim_plant_02",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "flora",
+    "path": "folders/Objects/decor/flora.yy",
   },
   "parentObjectId": {
     "name": "obj_par_objects",
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Plant01_strip04",
-    "path": "sprites/Plant01_strip04/Plant01_strip04.yy",
+    "name": "Plant02_strip03",
+    "path": "sprites/Plant02_strip03/Plant02_strip03.yy",
   },
   "spriteMaskId": null,
   "visible": true,

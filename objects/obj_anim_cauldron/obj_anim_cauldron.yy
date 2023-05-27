@@ -1,17 +1,17 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_plant_04",
+  "name": "obj_anim_cauldron",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "decor",
-    "path": "folders/Objects/decor.yy",
+    "name": "furniture",
+    "path": "folders/Objects/decor/furniture.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_objects",
-    "path": "objects/obj_par_objects/obj_par_objects.yy",
+    "name": "obj_par_solid_decor",
+    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Plant04_strip02",
-    "path": "sprites/Plant04_strip02/Plant04_strip02.yy",
+    "name": "Cauldron_strip04",
+    "path": "sprites/Cauldron_strip04/Cauldron_strip04.yy",
   },
   "spriteMaskId": null,
   "visible": true,
