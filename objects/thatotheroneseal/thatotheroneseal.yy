@@ -1,18 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_lantern",
+  "name": "thatotheroneseal",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Angelhacks 2023",
-    "path": "Angelhacks 2023.yyp",
+    "name": "characters",
+    "path": "folders/Objects/characters.yy",
   },
-  "parentObjectId": {
-    "name": "obj_par_solid_decor",
-    "path": "objects/obj_par_solid_decor/obj_par_solid_decor.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -29,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Lantern_strip04",
-    "path": "sprites/Lantern_strip04/Lantern_strip04.yy",
+    "name": "thatoneseal",
+    "path": "sprites/thatoneseal/thatoneseal.yy",
   },
   "spriteMaskId": null,
   "visible": true,
