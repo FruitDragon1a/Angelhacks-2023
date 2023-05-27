@@ -11,7 +11,7 @@ moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
 lookRange = 30;
-npcdialogue = ds_list_create();
+dialogue = ds_list_create();
 
 function loadDialogue(dialogue) {
 	var currentString = "";
