@@ -10,8 +10,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "npcDialogue",
-    "path": "objects/npcDialogue/npcDialogue.yy",
+    "name": "obj_par_npcs",
+    "path": "objects/obj_par_npcs/obj_par_npcs.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
