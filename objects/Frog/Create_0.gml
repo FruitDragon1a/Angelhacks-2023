@@ -9,4 +9,18 @@ dir = 3;
 moveRight = 0;
 moveLeft = 0;
 moveUp = 0;
-                     moveDown = 0;
+moveDown = 0;
+lookRange = 30;
+dialogue = ds_list_create();
+
+function loadDialogue(dialogue) {
+	var currentString = "";
+	for (var i = 0; i < dialogue.length; i += 1) {
+		if (dialogue[i] != "\n") {
+			currentString = dialogue[i]
+		} else {
+			ds_list_add(dialogue, currentString);
+			currentString = "";
+		}
+	}
+}

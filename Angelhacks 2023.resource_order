@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"King_Halcyon_Worm_the_Second","order":13,"path":"sprites/King_Halcyon_Worm_the_Second/King_Halcyon_Worm_the_Second.yy",},
+    {"name":"textbox","order":3,"path":"objects/textbox/textbox.yy",},
     {"name":"frog_right","order":6,"path":"sprites/frog_right/frog_right.yy",},
     {"name":"frog_back","order":1,"path":"sprites/frog_back/frog_back.yy",},
     {"name":"TX_Tileset_Grass","order":7,"path":"sprites/TX_Tileset_Grass/TX_Tileset_Grass.yy",},
@@ -29,6 +30,7 @@
     {"name":"frog_right_stand","order":7,"path":"sprites/frog_right_stand/frog_right_stand.yy",},
     {"name":"frog_left","order":4,"path":"sprites/frog_left/frog_left.yy",},
     {"name":"frog_front","order":2,"path":"sprites/frog_front/frog_front.yy",},
+    {"name":"npcDialogue","order":2,"path":"objects/npcDialogue/npcDialogue.yy",},
     {"name":"TX_Shadow_Plant","order":5,"path":"sprites/TX_Shadow_Plant/TX_Shadow_Plant.yy",},
     {"name":"Tileset_Grass_1","order":10,"path":"tilesets/Tileset_Grass_1/Tileset_Grass_1.yy",},
     {"name":"TX_Tileset_Stone_Ground","order":8,"path":"sprites/TX_Tileset_Stone_Ground/TX_Tileset_Stone_Ground.yy",},

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Main script
 // You can write your code in this editor
 
 //check keys for movement
@@ -51,3 +51,6 @@ if (vy > 0){
 	sprite_index = frog_front;
 	dir = 1;
 }
+
+
+npc = collision_rectangle(x-lookRange, y-lookRange, x+lookRange, y+lookRange, npcDialogue, false, true);
