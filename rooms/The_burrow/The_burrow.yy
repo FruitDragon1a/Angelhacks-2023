@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "The_burrow",
+  "name": "the_Burrow",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
