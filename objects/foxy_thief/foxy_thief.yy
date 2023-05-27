@@ -1,20 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "King_Halcyon_Worm_II",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "foxy_thief",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "characters",
     "path": "folders/Objects/characters.yy",
   },
-  "parentObjectId": {
-    "name": "obj_par_npcs",
-    "path": "objects/obj_par_npcs/obj_par_npcs.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "King_Halcyon_Worm_the_Second",
-    "path": "sprites/King_Halcyon_Worm_the_Second/King_Halcyon_Worm_the_Second.yy",
+    "name": "fox",
+    "path": "sprites/fox/fox.yy",
   },
   "spriteMaskId": null,
   "visible": true,
