@@ -153,6 +153,7 @@
     {"id":{"name":"racoon_front","path":"sprites/racoon_front/racoon_front.yy",},},
     {"id":{"name":"building3_red","path":"sprites/building3_red/building3_red.yy",},},
     {"id":{"name":"angar3_blue","path":"sprites/angar3_blue/angar3_blue.yy",},},
+    {"id":{"name":"TextBoxSprite","path":"sprites/TextBoxSprite/TextBoxSprite.yy",},},
     {"id":{"name":"TX_Plant","path":"sprites/TX_Plant/TX_Plant.yy",},},
     {"id":{"name":"stump","path":"sprites/stump/stump.yy",},},
     {"id":{"name":"worm_nothrone","path":"sprites/worm_nothrone/worm_nothrone.yy",},},

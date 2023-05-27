@@ -10,16 +10,18 @@ moveRight = 0;
 moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
-lookRange = 30;
-dialogue = ds_list_create();
+lookRange = 60;
+dialogue = [ ]
 
 function loadDialogue(dialogue_) {
 	var currentString = "";
-	for (var i = 0; i < dialogue_.length; i += 1) {
-		if (dialogue_[i] != "\n") {
-			currentString = dialogue_[i]
+	var counter = 0;
+	for (var i = 0; i < string_length(dialogue_); i += 1) {
+		var char = string_char_at(dialogue_, i);
+		if (char != "\n") {
+			currentString += char
 		} else {
-			ds_list_add(dialogue, currentString);
+			dialogue[counter] = currentString
 			currentString = "";
 		}
 	}
