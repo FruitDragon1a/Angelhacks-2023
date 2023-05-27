@@ -53,4 +53,4 @@ if (vy > 0){
 }
 
 
-npc = collision_rectangle(x-lookRange, y-lookRange, x+lookRange, y+lookRange, npcDialogue, false, true);
+npc = collision_rectangle(x-lookRange, y-lookRange, x+lookRange, y+lookRange, dialogue, false, true);

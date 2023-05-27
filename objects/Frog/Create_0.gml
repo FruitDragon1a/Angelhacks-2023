@@ -13,11 +13,11 @@ moveDown = 0;
 lookRange = 30;
 dialogue = ds_list_create();
 
-function loadDialogue(dialogue) {
+function loadDialogue(dialogue_) {
 	var currentString = "";
-	for (var i = 0; i < dialogue.length; i += 1) {
-		if (dialogue[i] != "\n") {
-			currentString = dialogue[i]
+	for (var i = 0; i < dialogue_.length; i += 1) {
+		if (dialogue_[i] != "\n") {
+			currentString = dialogue_[i]
 		} else {
 			ds_list_add(dialogue, currentString);
 			currentString = "";
