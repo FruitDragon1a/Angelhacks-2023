@@ -7,6 +7,7 @@
     {"name":"furniture","order":11,"path":"folders/Sprites/furniture.yy",},
     {"name":"houses","order":12,"path":"folders/Sprites/houses.yy",},
     {"name":"tilesets","order":13,"path":"folders/Sprites/tilesets.yy",},
+    {"name":"items","order":9,"path":"folders/Objects/items.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"tree_2","order":52,"path":"sprites/tree_2/tree_2.yy",},
@@ -31,7 +32,7 @@
     {"name":"TX_Shadow","order":4,"path":"sprites/TX_Shadow/TX_Shadow.yy",},
     {"name":"tileset_Water_resized","order":4,"path":"tilesets/tileset_Water_resized/tileset_Water_resized.yy",},
     {"name":"wormnothrone","order":2,"path":"objects/wormnothrone/wormnothrone.yy",},
-    {"name":"seashell","order":8,"path":"objects/seashell/seashell.yy",},
+    {"name":"seashell","order":1,"path":"objects/seashell/seashell.yy",},
     {"name":"foxy_thief","order":6,"path":"objects/foxy_thief/foxy_thief.yy",},
     {"name":"angar2_red","order":6,"path":"sprites/angar2_red/angar2_red.yy",},
     {"name":"obj_par_npcs","order":4,"path":"objects/obj_par_npcs/obj_par_npcs.yy",},
