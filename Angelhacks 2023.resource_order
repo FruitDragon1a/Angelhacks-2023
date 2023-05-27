@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"King_Halcyon_Worm_the_Second","order":13,"path":"sprites/King_Halcyon_Worm_the_Second/King_Halcyon_Worm_the_Second.yy",},
     {"name":"frog_right","order":6,"path":"sprites/frog_right/frog_right.yy",},
     {"name":"frog_back_stand","order":1,"path":"sprites/frog_back_stand/frog_back_stand.yy",},
     {"name":"TX_Tileset_Grass","order":7,"path":"sprites/TX_Tileset_Grass/TX_Tileset_Grass.yy",},
@@ -33,6 +34,7 @@
     {"name":"TX_Tileset_Stone_Ground","order":8,"path":"sprites/TX_Tileset_Stone_Ground/TX_Tileset_Stone_Ground.yy",},
     {"name":"TX_Struct","order":6,"path":"sprites/TX_Struct/TX_Struct.yy",},
     {"name":"TX_Props","order":3,"path":"sprites/TX_Props/TX_Props.yy",},
+    {"name":"King_Halcyon_Worm_II","order":1,"path":"objects/King_Halcyon_Worm_II/King_Halcyon_Worm_II.yy",},
     {"name":"frog_left_stand","order":5,"path":"sprites/frog_left_stand/frog_left_stand.yy",},
     {"name":"TX_Plant","order":1,"path":"sprites/TX_Plant/TX_Plant.yy",},
     {"name":"TX_Tileset_Wall","order":9,"path":"sprites/TX_Tileset_Wall/TX_Tileset_Wall.yy",},

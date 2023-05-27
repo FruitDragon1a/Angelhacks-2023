@@ -46,6 +46,7 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"King_Halcyon_Worm_the_Second","path":"sprites/King_Halcyon_Worm_the_Second/King_Halcyon_Worm_the_Second.yy",},},
     {"id":{"name":"frog_right","path":"sprites/frog_right/frog_right.yy",},},
     {"id":{"name":"frog_back_stand","path":"sprites/frog_back_stand/frog_back_stand.yy",},},
     {"id":{"name":"TX_Tileset_Grass","path":"sprites/TX_Tileset_Grass/TX_Tileset_Grass.yy",},},
@@ -63,6 +64,7 @@
     {"id":{"name":"TX_Tileset_Stone_Ground","path":"sprites/TX_Tileset_Stone_Ground/TX_Tileset_Stone_Ground.yy",},},
     {"id":{"name":"TX_Struct","path":"sprites/TX_Struct/TX_Struct.yy",},},
     {"id":{"name":"TX_Props","path":"sprites/TX_Props/TX_Props.yy",},},
+    {"id":{"name":"King_Halcyon_Worm_II","path":"objects/King_Halcyon_Worm_II/King_Halcyon_Worm_II.yy",},},
     {"id":{"name":"frog_left_stand","path":"sprites/frog_left_stand/frog_left_stand.yy",},},
     {"id":{"name":"TX_Plant","path":"sprites/TX_Plant/TX_Plant.yy",},},
     {"id":{"name":"TX_Tileset_Wall","path":"sprites/TX_Tileset_Wall/TX_Tileset_Wall.yy",},},
