@@ -29,6 +29,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"frog sprites","folderPath":"folders/Sprites/frog sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"houses","folderPath":"folders/Sprites/houses.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"furniture","folderPath":"folders/Sprites/furniture.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/Sprites/tilesets.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pixel Art Top Down - Basic.unitypackage","CopyToMask":-1,"filePath":"datafiles/Pixel Art Top Down - Basic",},
@@ -81,6 +82,7 @@
     {"id":{"name":"building2_blue","path":"sprites/building2_blue/building2_blue.yy",},},
     {"id":{"name":"tiles","path":"sprites/tiles/tiles.yy",},},
     {"id":{"name":"TX_Shadow_Plant","path":"sprites/TX_Shadow_Plant/TX_Shadow_Plant.yy",},},
+    {"id":{"name":"tilesresized","path":"sprites/tilesresized/tilesresized.yy",},},
     {"id":{"name":"angar2_yellow","path":"sprites/angar2_yellow/angar2_yellow.yy",},},
     {"id":{"name":"Tileset_Grass_1","path":"tilesets/Tileset_Grass_1/Tileset_Grass_1.yy",},},
     {"id":{"name":"TX_Tileset_Stone_Ground","path":"sprites/TX_Tileset_Stone_Ground/TX_Tileset_Stone_Ground.yy",},},
@@ -102,6 +104,7 @@
     {"id":{"name":"angar2_blue","path":"sprites/angar2_blue/angar2_blue.yy",},},
     {"id":{"name":"building1_blue","path":"sprites/building1_blue/building1_blue.yy",},},
     {"id":{"name":"building1_red","path":"sprites/building1_red/building1_red.yy",},},
+    {"id":{"name":"moretiles","path":"tilesets/moretiles/moretiles.yy",},},
     {"id":{"name":"building3_green","path":"sprites/building3_green/building3_green.yy",},},
     {"id":{"name":"buildingForDog_blue","path":"sprites/buildingForDog_blue/buildingForDog_blue.yy",},},
     {"id":{"name":"TX_Tileset_Wall","path":"sprites/TX_Tileset_Wall/TX_Tileset_Wall.yy",},},
