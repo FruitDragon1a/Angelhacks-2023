@@ -34,10 +34,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"racoon sprites","folderPath":"folders/Sprites/characters/racoon sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"furniture","folderPath":"folders/Sprites/furniture.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"houses","folderPath":"folders/Sprites/houses.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"other stuff","folderPath":"folders/Sprites/other stuff.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tilesets","folderPath":"folders/Sprites/tilesets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"other stuff","folderPath":"folders/Sprites/other stuff.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Pixel Art Top Down - Basic.unitypackage","CopyToMask":-1,"filePath":"datafiles/Pixel Art Top Down - Basic",},
