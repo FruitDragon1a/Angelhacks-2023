@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "King_Halcyon_Worm_II",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,8 +12,8 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": {
-    "name": "npcDialogue",
-    "path": "objects/npcDialogue/npcDialogue.yy",
+    "name": "obj_par_npcs",
+    "path": "objects/obj_par_npcs/obj_par_npcs.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,

@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "TextBackground",
-  "bbox_bottom": 23,
+  "bbox_bottom": 31,
   "bbox_left": 0,
-  "bbox_right": 47,
+  "bbox_right": 61,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"dc2fb02e-b8c5-47cc-98aa-a44ab096e941",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a9970511-da38-48df-9916-0e21936b3230",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 24,
+  "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ff1514b1-afbe-4423-9961-dd50800e5428","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4c625911-56c4-4db8-a87f-6659a64f2f91","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"dc2fb02e-b8c5-47cc-98aa-a44ab096e941","path":"sprites/TextBackground/TextBackground.yy",},},},"Disabled":false,"id":"82f30095-1870-4abe-9022-4f96e5fddf02","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a9970511-da38-48df-9916-0e21936b3230","path":"sprites/TextBackground/TextBackground.yy",},},},"Disabled":false,"id":"48c7ff5c-d5b7-472f-b1d3-56b87ae21053","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 48,
+  "width": 62,
 }
