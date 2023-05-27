@@ -10,8 +10,8 @@
     "path": "folders/Objects/decor.yy",
   },
   "parentObjectId": {
-    "name": "obj_par_objects",
-    "path": "objects/obj_par_objects/obj_par_objects.yy",
+    "name": "obj_par_collidables",
+    "path": "objects/obj_par_collidables/obj_par_collidables.yy",
   },
   "persistent": false,
   "physicsAngularDamping": 0.1,
