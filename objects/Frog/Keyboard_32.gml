@@ -11,8 +11,9 @@ if (npc) {
 		}
 		if (dialogueIndex > dialogue.length-1) {
 			dialogueBox.showText(dialogue[dialogueIndex]);
+			dialogueIndex += 1;
 		} else {
-			dialogueBox
+			instance_destroy(dialogueBox);
 		}
 	}
 }
