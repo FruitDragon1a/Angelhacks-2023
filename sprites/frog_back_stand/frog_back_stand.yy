@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "frog_back_stand",
-  "bbox_bottom": 429,
-  "bbox_left": 85,
-  "bbox_right": 414,
-  "bbox_top": 90,
+  "bbox_bottom": 85,
+  "bbox_left": 17,
+  "bbox_right": 82,
+  "bbox_top": 18,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"84d581c2-c44c-441e-8f72-9c98a229a31e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c939ffa7-f393-4998-8691-6ae4587a5249",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 500,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a3c51654-c3c4-410e-813c-7bc7fc69a907","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"706eebe5-5286-4a40-a45d-1b791f77103b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"84d581c2-c44c-441e-8f72-9c98a229a31e","path":"sprites/frog_back_stand/frog_back_stand.yy",},},},"Disabled":false,"id":"622b7130-6804-4dd5-be4d-1d28498356e2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c939ffa7-f393-4998-8691-6ae4587a5249","path":"sprites/frog_back_stand/frog_back_stand.yy",},},},"Disabled":false,"id":"9b568fbf-7444-4a94-a509-1799d8597094","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 500,
+  "width": 100,
 }

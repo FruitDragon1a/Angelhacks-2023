@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "frog_front_stand",
-  "bbox_bottom": 409,
-  "bbox_left": 85,
-  "bbox_right": 414,
-  "bbox_top": 90,
+  "bbox_bottom": 81,
+  "bbox_left": 17,
+  "bbox_right": 82,
+  "bbox_top": 18,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"de927a8a-5951-41c3-ab5d-d53e7a8cda97",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"528769ae-4202-4f39-ae65-44e858ffc46d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 500,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"deb8ae83-b520-42e4-83f3-754a0e7459d4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a6440d10-a1e3-47df-9629-8658b82731ab","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"de927a8a-5951-41c3-ab5d-d53e7a8cda97","path":"sprites/frog_front_stand/frog_front_stand.yy",},},},"Disabled":false,"id":"7cf06ee8-17f9-4576-acca-cc94c0aafb28","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"528769ae-4202-4f39-ae65-44e858ffc46d","path":"sprites/frog_front_stand/frog_front_stand.yy",},},},"Disabled":false,"id":"84ec7a91-8da3-4bba-bfc5-33a6644412a6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 500,
+  "width": 100,
 }

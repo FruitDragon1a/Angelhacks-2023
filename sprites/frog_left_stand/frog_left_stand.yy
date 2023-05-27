@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "frog_left_stand",
-  "bbox_bottom": 399,
-  "bbox_left": 105,
-  "bbox_right": 399,
-  "bbox_top": 100,
+  "bbox_bottom": 79,
+  "bbox_left": 21,
+  "bbox_right": 79,
+  "bbox_top": 20,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"955dd128-e047-4010-8135-ab5d713f2ec6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"677931ba-9023-4ebf-86ba-3fb46a5df0d4",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 500,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1aa8d257-89a5-455b-89c4-277f7a84fcd5","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7e0a9012-7866-4db9-a87e-d5123fff4eb2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"955dd128-e047-4010-8135-ab5d713f2ec6","path":"sprites/frog_left_stand/frog_left_stand.yy",},},},"Disabled":false,"id":"2c5e17ee-db30-4ebf-94e4-37d27e08cd63","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"677931ba-9023-4ebf-86ba-3fb46a5df0d4","path":"sprites/frog_left_stand/frog_left_stand.yy",},},},"Disabled":false,"id":"c5ee51d9-753d-42f9-b98d-0466916d7ef3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 500,
+  "width": 100,
 }
