@@ -90,6 +90,7 @@
     {"id":{"name":"tree_1","path":"sprites/tree_1/tree_1.yy",},},
     {"id":{"name":"obj_lantern","path":"objects/obj_lantern/obj_lantern.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
+    {"id":{"name":"blue_house","path":"objects/blue_house/blue_house.yy",},},
     {"id":{"name":"TX_Shadow","path":"sprites/TX_Shadow/TX_Shadow.yy",},},
     {"id":{"name":"tileset_Water_resized","path":"tilesets/tileset_Water_resized/tileset_Water_resized.yy",},},
     {"id":{"name":"Lacuna_Burrow","path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},},
