@@ -7,7 +7,7 @@
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_npcs","path":"objects/obj_par_npcs/obj_par_npcs.yy",},"propertyId":{"name":"yOffset","path":"objects/obj_par_npcs/obj_par_npcs.yy",},"value":"100",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_npcs","path":"objects/obj_par_npcs/obj_par_npcs.yy",},"propertyId":null,"value":"100",},
   ],
   "parent": {
     "name": "characters",
