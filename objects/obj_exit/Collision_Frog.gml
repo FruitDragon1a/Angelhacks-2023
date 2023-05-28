@@ -3,5 +3,5 @@
 
 //go to room
 room_goto(targetRoom);
-other.x = targetX;
-other.y = targetY;
+Frog.x = targetX;
+Frog.y = targetY;
