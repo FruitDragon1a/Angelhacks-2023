@@ -83,7 +83,7 @@
     {"id":{"name":"Cauldron_strip04","path":"sprites/Cauldron_strip04/Cauldron_strip04.yy",},},
     {"id":{"name":"fox","path":"sprites/fox/fox.yy",},},
     {"id":{"name":"green_house_2","path":"objects/green_house_2/green_house_2.yy",},},
-    {"id":{"name":"textFont","path":"fonts/textFont/textFont.yy",},},
+    {"id":{"name":"font_textbox","path":"fonts/font_textbox/font_textbox.yy",},},
     {"id":{"name":"TX_Tileset_Grass","path":"sprites/TX_Tileset_Grass/TX_Tileset_Grass.yy",},},
     {"id":{"name":"box","path":"sprites/box/box.yy",},},
     {"id":{"name":"racoon_back","path":"sprites/racoon_back/racoon_back.yy",},},
