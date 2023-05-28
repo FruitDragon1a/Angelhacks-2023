@@ -2,9 +2,13 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "fat_rat",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_par_npcs","path":"objects/obj_par_npcs/obj_par_npcs.yy",},"propertyId":{"name":"yOffset","path":"objects/obj_par_npcs/obj_par_npcs.yy",},"value":"100",},
+  ],
   "parent": {
     "name": "characters",
     "path": "folders/Objects/characters.yy",

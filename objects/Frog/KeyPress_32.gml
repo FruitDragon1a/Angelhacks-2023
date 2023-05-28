@@ -1,18 +1,23 @@
 /// @description Trigger Dialogue
 // You can write your code in this editor
 if (npc) {
-	if (npc.dialogue != "EMPTY") {
+	if (npc.dialogue != "EMPTY") 
+	{
+		var offset = -100;
+		if (npc.yOffset != 0) {
+			offset = npc.yOffset;
+		}
 		if (array_length(dialogue) == 0) {
 			loadDialogue(npc.dialogue);
 			global.canMove = false;
 			show_debug_message("cannot move");
 		}
 		if (dialogueIndex == -1) {
-			dialogueBox = instance_create_depth(npc.x, npc.y-100,-5000, textbox);
+			dialogueBox = instance_create_depth(npc.x, npc.y + offset,-5000, textbox);
 			dialogueIndex = 0;
 		} else {
 			instance_destroy(dialogueBox);
-			dialogueBox = instance_create_depth(npc.x, npc.y-100,-5000, textbox);
+			dialogueBox = instance_create_depth(npc.x, npc.y + offset,-5000, textbox);
 		}
 		if (dialogueIndex <= array_length(dialogue)-1) {
 			dialogueBox.line = dialogue[dialogueIndex];
