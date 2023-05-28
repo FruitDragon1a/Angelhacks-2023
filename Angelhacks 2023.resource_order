@@ -56,7 +56,6 @@
     {"name":"angar3_red","order":10,"path":"sprites/angar3_red/angar3_red.yy",},
     {"name":"thatotheroneseal","order":1,"path":"objects/thatotheroneseal/thatotheroneseal.yy",},
     {"name":"building2_green","order":17,"path":"sprites/building2_green/building2_green.yy",},
-    {"name":"barry","order":15,"path":"sprites/barry/barry.yy",},
     {"name":"Tileset_Stone_Ground_1","order":1,"path":"tilesets/Tileset_Stone_Ground_1/Tileset_Stone_Ground_1.yy",},
     {"name":"angar2_green","order":5,"path":"sprites/angar2_green/angar2_green.yy",},
     {"name":"sting_ray","order":10,"path":"objects/sting_ray/sting_ray.yy",},

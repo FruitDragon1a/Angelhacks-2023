@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "angar3_blue",
+    "path": "sprites/angar3_blue/angar3_blue.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
