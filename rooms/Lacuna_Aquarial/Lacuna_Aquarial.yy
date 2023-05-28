@@ -13,6 +13,7 @@
     {"name":"inst_642EE70_1","path":"rooms/Lacuna_Aquarial/Lacuna_Aquarial.yy",},
     {"name":"inst_34530468_1","path":"rooms/Lacuna_Aquarial/Lacuna_Aquarial.yy",},
     {"name":"inst_358161A_1","path":"rooms/Lacuna_Aquarial/Lacuna_Aquarial.yy",},
+    {"name":"inst_42560038","path":"rooms/Lacuna_Aquarial/Lacuna_Aquarial.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -30,6 +31,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetX","path":"objects/obj_exit/obj_exit.yy",},"value":"2016",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetY","path":"objects/obj_exit/obj_exit.yy",},"value":"512",},
           ],"rotation":0.0,"scaleX":1.5,"scaleY":1.0,"x":175.0,"y":-64.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_42560038","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"seashell","path":"objects/seashell/seashell.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":832.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":29,"SerialiseWidth":15,"TileCompressedData":[
 17,9,26,14,9,9,50,49,41,61,54,12,25,11,25,
