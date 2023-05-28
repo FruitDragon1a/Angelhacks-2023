@@ -17,7 +17,7 @@ global.canMove = true;
 function loadDialogue(dialogue_) {
 	var currentString = "";
 	var counter = 0;
-	for (var i = 0; i < string_length(dialogue_); i += 1) {
+	for (var i = 1; i <= string_length(dialogue_); i += 1) {
 		var char = string_char_at(dialogue_, i);
 		if (char != "\n") {
 			currentString += char
@@ -27,5 +27,7 @@ function loadDialogue(dialogue_) {
 			currentString = "";
 		}
 	}
-	dialogue[counter] = currentString;
+	if (currentString != "") {
+		dialogue[counter] = currentString;
+	}
 }
