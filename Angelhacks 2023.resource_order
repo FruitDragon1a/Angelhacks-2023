@@ -14,6 +14,7 @@
   "ResourceOrderSettings": [
     {"name":"tree_2","order":13,"path":"sprites/tree_2/tree_2.yy",},
     {"name":"chair_1","order":2,"path":"sprites/chair_1/chair_1.yy",},
+    {"name":"Lacuna_Aquarial","order":5,"path":"rooms/Lacuna_Aquarial/Lacuna_Aquarial.yy",},
     {"name":"frog_left","order":9,"path":"sprites/frog_left/frog_left.yy",},
     {"name":"racoon","order":8,"path":"objects/racoon/racoon.yy",},
     {"name":"frog_right_stand","order":16,"path":"sprites/frog_right_stand/frog_right_stand.yy",},
@@ -34,6 +35,7 @@
     {"name":"obj_lantern","order":3,"path":"objects/obj_lantern/obj_lantern.yy",},
     {"name":"TX_Shadow","order":4,"path":"sprites/TX_Shadow/TX_Shadow.yy",},
     {"name":"tileset_Water_resized","order":4,"path":"tilesets/tileset_Water_resized/tileset_Water_resized.yy",},
+    {"name":"Lacuna_Burrow","order":4,"path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},
     {"name":"wormnothrone","order":2,"path":"objects/wormnothrone/wormnothrone.yy",},
     {"name":"frog_right","order":10,"path":"sprites/frog_right/frog_right.yy",},
     {"name":"seashell","order":8,"path":"objects/seashell/seashell.yy",},
@@ -102,6 +104,7 @@
     {"name":"table_2","order":7,"path":"sprites/table_2/table_2.yy",},
     {"name":"fat_rat","order":5,"path":"objects/fat_rat/fat_rat.yy",},
     {"name":"Frog","order":3,"path":"objects/Frog/Frog.yy",},
+    {"name":"Lacuna_Terralia","order":6,"path":"rooms/Lacuna_Terralia/Lacuna_Terralia.yy",},
     {"name":"buildingForDog_yellow","order":27,"path":"sprites/buildingForDog_yellow/buildingForDog_yellow.yy",},
   ],
 }
