@@ -10,7 +10,7 @@ moveRight = 0;
 moveLeft = 0;
 moveUp = 0;
 moveDown = 0;
-lookRange = 60;
+lookRange = 30;
 dialogue = [ ];
 global.canMove = true;
 
@@ -22,8 +22,10 @@ function loadDialogue(dialogue_) {
 		if (char != "\n") {
 			currentString += char
 		} else {
-			dialogue[counter] = currentString
+			dialogue[counter] = currentString;
+			counter += 1;
 			currentString = "";
 		}
 	}
+	dialogue[counter] = currentString;
 }
