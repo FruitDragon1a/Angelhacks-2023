@@ -15,6 +15,8 @@
     {"name":"inst_7FE4486E","path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},
     {"name":"inst_2A8C2197","path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},
     {"name":"inst_6BA2A43E","path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},
+    {"name":"inst_1C7586A0","path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},
+    {"name":"inst_F8E0D12","path":"rooms/Lacuna_Burrow/Lacuna_Burrow.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -27,6 +29,8 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7FE4486E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.1,"x":419.0,"y":675.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2A8C2197","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.1,"x":125.0,"y":675.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6BA2A43E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.1,"x":-36.0,"y":675.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_1C7586A0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"fat_rat","path":"objects/fat_rat/fat_rat.yy",},"properties":[],"rotation":0.0,"scaleX":0.7,"scaleY":0.7,"x":264.0,"y":615.00024,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_F8E0D12","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Frog","path":"objects/Frog/Frog.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":704.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":29,"SerialiseWidth":15,"TileCompressedData":[
 17,9,26,14,9,9,50,49,41,61,54,12,25,11,25,
