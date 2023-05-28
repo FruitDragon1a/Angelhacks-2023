@@ -27,6 +27,7 @@
     {"name":"inst_1F286EC6","path":"rooms/Lacuna/Lacuna.yy",},
     {"name":"inst_560C4572","path":"rooms/Lacuna/Lacuna.yy",},
     {"name":"inst_62660994","path":"rooms/Lacuna/Lacuna.yy",},
+    {"name":"inst_39C351E4","path":"rooms/Lacuna/Lacuna.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -53,6 +54,10 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2D66F2B5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"green_house","path":"objects/green_house/green_house.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1120.0,"y":448.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6C68934","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"green_house_2","path":"objects/green_house_2/green_house_2.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":288.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_10A98D3","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"green_house_2","path":"objects/green_house_2/green_house_2.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":608.0,"y":544.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_39C351E4","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetRoom","path":"objects/obj_exit/obj_exit.yy",},"value":"Lacuna_Burrow",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetY","path":"objects/obj_exit/obj_exit.yy",},"value":"912",},
+          ],"rotation":0.0,"scaleX":2.0,"scaleY":1.0,"x":192.0,"y":-64.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":64,"SerialiseWidth":64,"TileCompressedData":[
 -3,29,-2,14,1,18,-4,32,-4,18,-3,29,-6,18,-3,29,-12,18,-6,29,-3,18,-3,29,-14,18,-4,29,2,14,18,-4,32,-4,18,-3,29,-6,18,-3,29,2,18,14,-5,18,8,14,18,14,18,14,29,29,14,-3,29,-3,18,-3,29,-5,18,1,
