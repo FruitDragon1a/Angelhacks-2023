@@ -37,5 +37,5 @@
     "path": "sprites/spr_exit/spr_exit.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
