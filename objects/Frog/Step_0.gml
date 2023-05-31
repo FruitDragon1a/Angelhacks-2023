@@ -66,4 +66,5 @@ if (vy > 0){
 }
 
 
+
 npc = collision_rectangle(x-lookRange, y-lookRange, x+lookRange, y+lookRange, obj_par_npcs, false, true);

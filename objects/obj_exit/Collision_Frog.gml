@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 //go to room
-room_goto(targetRoom);
-Frog.x = targetX;
-Frog.y = targetY;
+global.targetRoom = targetRoom;
+global.xx = targetX;
+global.yy = targetY;
+global.frogChangeRooms = true;
