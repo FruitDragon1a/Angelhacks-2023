@@ -44,7 +44,7 @@
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetY","path":"objects/obj_exit/obj_exit.yy",},"value":"912",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":2.0,"x":2044.0,"y":543.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2138D4B8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"properties":[
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetRoom","path":"objects/obj_exit/obj_exit.yy",},"value":"Lacuna_Aquarial",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetRoom","path":"objects/obj_exit/obj_exit.yy",},"value":"Lacuna_Aquarial_2",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"propertyId":{"name":"targetY","path":"objects/obj_exit/obj_exit.yy",},"value":"896         ",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-61.0,"y":1184.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
